@@ -1,0 +1,24 @@
+node_modules
+.next
+
+.env*
+!.env.example
+
+data/*.sqlite*
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
+
+# Local paper-history exports; review before publishing.
+artifacts/submission/
+artifacts/*.zip
+
+# Optional local/private exports
+*.csv
