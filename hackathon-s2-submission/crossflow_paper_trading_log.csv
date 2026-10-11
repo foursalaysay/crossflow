@@ -1,0 +1,1 @@
+timestamp,instrument,direction_or_action,execution_price,quantity,balance_before,balance_after,balance_change,qwen_decision,rationale,risk_result,execution_target,order_status,client_order_id,simulated_order_id,realized_pnl,fees,exposure_before,exposure_after,reconciliation_status

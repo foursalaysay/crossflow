@@ -19,6 +19,3 @@ pnpm-debug.log*
 # Local paper-history exports; review before publishing.
 artifacts/submission/
 artifacts/*.zip
-
-# Optional local/private exports
-*.csv
